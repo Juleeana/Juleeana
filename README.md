@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Juleeana
+- 👀 I’m interested in expanding my knowledge
+- 🌱 I’m currently learning web development 
